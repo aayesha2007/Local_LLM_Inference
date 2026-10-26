@@ -1,0 +1,11 @@
+id,domain,prompt_type,prompt
+1,Education,Simple,"Explain photosynthesis in simple words."
+2,Education,Detailed,"Explain photosynthesis step by step with an example suitable for a beginner."
+3,Healthcare,Simple,"What are common ways to maintain good sleep habits?"
+4,Healthcare,Detailed,"Explain five healthy sleep habits and why each one is helpful."
+5,Coding,Simple,"Write a Python program to add two numbers."
+6,Coding,Detailed,"Write a Python function that adds two numbers, explain the code, and show an example output."
+7,Travel,Simple,"Suggest three places to visit in Japan."
+8,Travel,Detailed,"Create a three-day Japan travel itinerary for a first-time visitor with cultural activities."
+9,Business,Simple,"What is digital marketing?"
+10,Business,Detailed,"Explain five digital marketing strategies for a small business with examples."

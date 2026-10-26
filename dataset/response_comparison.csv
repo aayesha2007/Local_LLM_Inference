@@ -1,0 +1,6 @@
+domain,simple_prompt,simple_response_words,detailed_prompt,detailed_response_words,simple_status,detailed_status,observation
+Education,Explain photosynthesis in simple words.,102,Explain photosynthesis step by step with an example suitable for a beginner.,300,Success,Success,"Compare relevance, clarity, factual accuracy, and detail after reviewing both responses."
+Healthcare,What are common ways to maintain good sleep habits?,476,Explain five healthy sleep habits and why each one is helpful.,362,Success,Success,"Compare relevance, clarity, factual accuracy, and detail after reviewing both responses."
+Coding,Write a Python program to add two numbers.,37,"Write a Python function that adds two numbers, explain the code, and show an example output.",46,Success,Success,"Compare relevance, clarity, factual accuracy, and detail after reviewing both responses."
+Travel,Suggest three places to visit in Japan.,227,Create a three-day Japan travel itinerary for a first-time visitor with cultural activities.,508,Success,Success,"Compare relevance, clarity, factual accuracy, and detail after reviewing both responses."
+Business,What is digital marketing?,278,Explain five digital marketing strategies for a small business with examples.,515,Success,Success,"Compare relevance, clarity, factual accuracy, and detail after reviewing both responses."
